@@ -1,5 +1,9 @@
 # Tinky
 I just love **bold text**.
+Love **is** bold.
+
+Italicized text is the *cat's meow*.
+A *cat* meow.
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
