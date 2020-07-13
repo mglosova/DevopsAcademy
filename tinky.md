@@ -11,4 +11,5 @@ Try to put a blank line before...
 # Toto je velky nadpis
 ## Toto je trochu mensi nadpis
 ### Toto je stredny nadpis
+Nadpisy su roznej velkosti.
 
