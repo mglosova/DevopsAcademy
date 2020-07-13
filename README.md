@@ -13,6 +13,8 @@ A *cat* meow.
 >
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
+---
+
 > #### The quarterly results look great!
 >
 > - Revenue was off the chart.
@@ -23,7 +25,6 @@ A *cat* meow.
 - First item
 - Second item
 - Third item
-- Fourth item
 
 ---
 
