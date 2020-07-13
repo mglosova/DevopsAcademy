@@ -24,7 +24,6 @@ A *cat* meow.
 
 - First item
 - Second item
-- Third item
 
 ---
 
