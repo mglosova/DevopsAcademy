@@ -7,5 +7,5 @@ Try to put a blank line before...
 Exactly.
 Apparently.
 
-Sincerely
->>>>>>> 5384f6e7797336cbb9c475ea66474a6f25522313
+Sincerely!
+
