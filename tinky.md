@@ -9,3 +9,5 @@ Try to put a blank line before...
 ...and after a horizontal rule.
 
 # Toto je velky nadpis
+
+### Toto je stredny nadpis
